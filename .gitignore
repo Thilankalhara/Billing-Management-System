@@ -1,0 +1,21 @@
+# NetBeans and Ant build outputs
+/build/
+/dist/
+/nbproject/private/
+
+# Sensitive configuration & local credentials
+db.properties
+
+# Local runtime generated files and logs
+savePath.txt
+*.log
+application.log*
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.Spotlight-V100
+.Trashes

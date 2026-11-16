@@ -1,0 +1,7 @@
+# Database Configuration Template
+# Copy this file to 'db.properties' and set your local MySQL credentials.
+# Note: 'db.properties' is gitignored to protect sensitive credentials.
+
+db.url=jdbc:mysql://localhost:3306/bms
+db.user=root
+db.password=your_mysql_password
